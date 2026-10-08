@@ -1,0 +1,56 @@
+[
+  {
+    "asset": "infraestrutura",
+    "original": "ezer-infraestrutura.png",
+    "web": "ezer-infraestrutura.webp",
+    "mobile": "ezer-infraestrutura-720.webp",
+    "size": [
+      1586,
+      992
+    ],
+    "png_bytes": 2247200,
+    "webp_bytes": 280700,
+    "mobile_bytes": 75076
+  },
+  {
+    "asset": "datacenter",
+    "original": "ezer-datacenter.png",
+    "web": "ezer-datacenter.webp",
+    "mobile": "ezer-datacenter-720.webp",
+    "size": [
+      1672,
+      941
+    ],
+    "png_bytes": 2524047,
+    "webp_bytes": 332984,
+    "mobile_bytes": 67622,
+    "compact_banner": "ezer-datacenter-960.webp",
+    "compact_banner_bytes": 121170
+  },
+  {
+    "asset": "seguranca",
+    "original": "ezer-seguranca.png",
+    "web": "ezer-seguranca.webp",
+    "mobile": "ezer-seguranca-720.webp",
+    "size": [
+      1586,
+      992
+    ],
+    "png_bytes": 1920425,
+    "webp_bytes": 203306,
+    "mobile_bytes": 59064
+  },
+  {
+    "asset": "cloud",
+    "original": "ezer-cloud.png",
+    "web": "ezer-cloud.webp",
+    "mobile": "ezer-cloud-720.webp",
+    "size": [
+      1586,
+      992
+    ],
+    "png_bytes": 2454743,
+    "webp_bytes": 290746,
+    "mobile_bytes": 60128
+  }
+]
